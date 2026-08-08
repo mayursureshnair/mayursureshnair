@@ -4,6 +4,3 @@
 - 🌱 I'm currently learning Git and version control
 - 💻 I'm interested in Cloud Computing and AI
 - 📫 How to reach me: https://www.linkedin.com/in/mayursureshnair/
-
-## Projects
-- [git-learning-log](https://github.com/mayursureshnair/git-learning-log) - My first Git project tracking a learning log
