@@ -82,21 +82,27 @@ I am currently building my core engineering foundation through intensive hands-o
 ## 🎖️ Verified Credentials & Developer Profiles
 
 <div align="center">
-  <a href="https://www.credly.com/users/mayursureshnair/badges/credly">
-    <img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=plastic&logo=credly&logoColor=white" alt="Credly Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.skills.google/public_profiles/a3c06da5-61e4-41b4-b08a-dfe3de8c809e">
-    <img src="https://img.shields.io/badge/Google_Skills-Public_Profile-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Skills Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://me.developers.google.com/u/mayursureshnair">
-    <img src="https://img.shields.io/badge/Google_Developers-Member_Profile-0F9D58?style=plastic&logo=google&logoColor=white" alt="Google Developer Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credential.net/profile/mayursureshnair/wallet">
-    <img src="https://img.shields.io/badge/Accredible-Credential_Wallet-00A887?style=plastic&logo=education&logoColor=white" alt="Accredible Wallet" />
-  </a>
+  <p align="center">
+    <a href="https://www.credly.com/users/mayursureshnair/badges/credly">
+      <img src="https://cdn.simpleicons.org/credly/FF6B00" width="22" height="22" alt="Credly" valign="middle" />
+      &nbsp;<b>Credly Profile</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.skills.google/public_profiles/a3c06da5-61e4-41b4-b08a-dfe3de8c809e">
+      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="22" height="22" alt="Google Skills" valign="middle" />
+      &nbsp;<b>Google Skills Profile</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://me.developers.google.com/u/mayursureshnair">
+      <img src="https://cdn.simpleicons.org/google/0F9D58" width="22" height="22" alt="Google Developers" valign="middle" />
+      &nbsp;<b>Google Developer Profile</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.credential.net/profile/mayursureshnair/wallet">
+      <img src="https://cdn.simpleicons.org/google/C084FC" width="22" height="22" alt="Accredible" valign="middle" />
+      &nbsp;<b>Accredible Wallet</b>
+    </a>
+  </p>
 </div>
 
 ---
