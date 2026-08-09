@@ -8,19 +8,20 @@
   <br /><br />
 
   <p align="center">
-    🌐 <a href="https://www.linkedin.com/in/mayursureshnair/"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
-    🐙 <a href="https://github.com/mayursureshnair"><b>GitHub</b></a> &nbsp;•&nbsp; 
-    ✉️ <a href="mailto:mayursureshnair@example.com"><b>Email</b></a>
-  </p>
-
-  <br />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mayursureshnair&label=PROFILE+VIEWS&color=7e22ce&style=plastic" alt="Profile Views" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/mayursureshnair?label=Followers&color=581c87&style=plastic&logo=github" alt="Followers" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/mayursureshnair?label=Stars&color=3b0764&style=plastic&logo=github" alt="Stars" />
+    <a href="https://www.linkedin.com/in/mayursureshnair/">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" alt="LinkedIn" valign="middle" />
+      &nbsp;<b>LinkedIn</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/mayursureshnair">
+      <img src="https://cdn.simpleicons.org/github/C084FC" width="20" height="20" alt="GitHub" valign="middle" />
+      &nbsp;<b>GitHub</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:mayursureshnair@gmail.com">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" valign="middle" />
+      &nbsp;<b>Email</b>
+    </a>
   </p>
 </div>
 
@@ -109,9 +110,22 @@ I am currently building my core engineering foundation through intensive hands-o
 ## 📬 Connect & Network
 
 <div align="center">
-  🌐 <a href="https://www.linkedin.com/in/mayursureshnair/"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
-  🐙 <a href="https://github.com/mayursureshnair"><b>GitHub</b></a> &nbsp;•&nbsp; 
-  ✉️ <a href="mailto:mayursureshnair@example.com"><b>Email</b></a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mayursureshnair/">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn" valign="middle" />
+      &nbsp;<b>LinkedIn</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/mayursureshnair">
+      <img src="https://cdn.simpleicons.org/github/C084FC" width="22" height="22" alt="GitHub" valign="middle" />
+      &nbsp;<b>GitHub</b>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:mayursureshnair@gmail.com">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Gmail" valign="middle" />
+      &nbsp;<b>Gmail</b>
+    </a>
+  </p>
 </div>
 
 ---
