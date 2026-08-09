@@ -13,11 +13,6 @@
       &nbsp;<b>LinkedIn</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/mayursureshnair">
-      <img src="https://img.icons8.com/material-sharp/48/c084fc/github.png" width="22" height="22" alt="GitHub" valign="middle" />
-      &nbsp;<b>GitHub</b>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mayursureshnair@gmail.com">
       <img src="https://img.icons8.com/color/48/gmail-new.png" width="22" height="22" alt="Gmail" valign="middle" />
       &nbsp;<b>Email</b>
@@ -114,11 +109,6 @@ I am currently building my core engineering foundation through intensive hands-o
     <a href="https://www.linkedin.com/in/mayursureshnair/">
       <img src="https://img.icons8.com/color/48/linkedin.png" width="22" height="22" alt="LinkedIn" valign="middle" />
       &nbsp;<b>LinkedIn</b>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/mayursureshnair">
-      <img src="https://img.icons8.com/material-sharp/48/c084fc/github.png" width="22" height="22" alt="GitHub" valign="middle" />
-      &nbsp;<b>GitHub</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mayursureshnair@gmail.com">
