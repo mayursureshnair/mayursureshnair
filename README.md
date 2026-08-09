@@ -3,13 +3,11 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=BCA+Student+@+Manipal+University+Jaipur;Building+Foundations+in+AWS%2C+GCP+%26+Azure;Exploring+AI+Agents%2C+Generative+AI+%26+Edge+Tech;Linux+Systems+Admin+%7C+Bash+%7C+Python+%7C+Cloud-Native" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Building+Foundations+in+AWS%2C+GCP+%26+Azure;Exploring+AI+Agents%2C+Generative+AI+%26+Edge+Tech;Linux+Systems+Admin+%7C+Bash+%7C+Python+%7C+Cloud-Native" alt="Typing SVG Animation" />
 
   <br /><br />
 
   <p align="center">
-    🎓 <b>B.C.A. Computer Applications Student</b> @ Manipal University Jaipur &nbsp;|&nbsp; 📍 <b>Kannur, Kerala, India</b>
-    <br /><br />
     🌐 <a href="https://www.linkedin.com/in/mayursureshnair/"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
     🐙 <a href="https://github.com/mayursureshnair"><b>GitHub</b></a> &nbsp;•&nbsp; 
     ✉️ <a href="mailto:mayursureshnair@example.com"><b>Email</b></a>
@@ -34,6 +32,7 @@ I am a **BCA Student at Manipal University Jaipur** with a strong passion for **
 
 I am currently building my core engineering foundation through intensive hands-on learning—exploring cloud architecture, edge computing technologies, security fundamentals, and AI while continually strengthening my knowledge of Linux, Python, Bash scripting, and modern distributed systems.
 
+- 📍 **Location**: Kannur, Kerala, India
 - ☁️ **Cloud Computing**: Hands-on experience with **AWS** (Primary focus), **GCP** (Secondary), and **Azure** (AZ-900 Certified).
 - 🤖 **Artificial Intelligence & Agents**: Exploring Generative AI, AI Agent workflows, and practical Python AI implementations.
 - 🐧 **Linux & Systems**: Deepening knowledge in Linux administration, command-line automation, shell scripting, and containerization.
@@ -99,18 +98,10 @@ I am currently building my core engineering foundation through intensive hands-o
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.credential.net/profile/mayursureshnair/wallet">
-      <img src="https://cdn.simpleicons.org/google/C084FC" width="22" height="22" alt="Accredible" valign="middle" />
+      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/svgs/solid/award.svg" width="20" height="20" alt="Accredible" valign="middle" />
       &nbsp;<b>Accredible Wallet</b>
     </a>
   </p>
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayursureshnair/mayursureshnair/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </div>
 
 ---
