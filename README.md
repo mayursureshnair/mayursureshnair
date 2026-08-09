@@ -7,33 +7,23 @@
 
   <br /><br />
 
-  <a href="https://github.com/mayursureshnair">
-    <img src="https://img.shields.io/badge/Education-B.C.A.%20Computer%20Applications-3B0764?style=for-the-badge&logo=academic-tree&logoColor=C084FC" alt="Academic Badge" />
-  </a>
-  <a href="https://github.com/mayursureshnair">
-    <img src="https://img.shields.io/badge/Location-Kannur%2C%20Kerala%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=C084FC" alt="Location Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/mayursureshnair/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayur%20Suresh%20Nair-6B21A8?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn Button" />
-  </a>
-  <a href="mailto:mayursureshnair@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-7E22CE?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email Button" />
-  </a>
-  <a href="https://github.com/mayursureshnair">
-    <img src="https://img.shields.io/badge/GitHub-@mayursureshnair-9333EA?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Button" />
-  </a>
+  <p align="center">
+    🎓 <b>B.C.A. Computer Applications Student</b> @ Manipal University Jaipur &nbsp;|&nbsp; 📍 <b>Kannur, Kerala, India</b>
+    <br /><br />
+    🌐 <a href="https://www.linkedin.com/in/mayursureshnair/"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
+    🐙 <a href="https://github.com/mayursureshnair"><b>GitHub</b></a> &nbsp;•&nbsp; 
+    ✉️ <a href="mailto:mayursureshnair@example.com"><b>Email</b></a>
+  </p>
 
-  <br /><br />
+  <br />
 
-  <a href="https://github.com/mayursureshnair">
-    <img src="https://komarev.com/ghpvc/?username=mayursureshnair&label=PROFILE+VIEWS&color=7e22ce&style=for-the-badge" alt="Profile Views Badge" />
-  </a>
-  <a href="https://github.com/mayursureshnair?tab=followers">
-    <img src="https://img.shields.io/github/followers/mayursureshnair?label=FOLLOWERS&style=for-the-badge&color=581c87&logo=github&logoColor=ffffff" alt="Followers Badge" />
-  </a>
-  <a href="https://github.com/mayursureshnair?tab=repositories">
-    <img src="https://img.shields.io/github/stars/mayursureshnair?label=TOTAL%20STARS&style=for-the-badge&color=3b0764&logo=github&logoColor=ffffff" alt="Stars Badge" />
-  </a>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mayursureshnair&label=PROFILE+VIEWS&color=7e22ce&style=plastic" alt="Profile Views" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/github/followers/mayursureshnair?label=Followers&color=581c87&style=plastic&logo=github" alt="Followers" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/mayursureshnair?label=Stars&color=3b0764&style=plastic&logo=github" alt="Stars" />
+  </p>
 </div>
 
 ---
@@ -60,27 +50,10 @@ I am currently building my core engineering foundation through intensive hands-o
 
 <br />
 
-### Programming & Scripting Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Cloud Platforms & Infrastructure
-![AWS Primary Focus](https://img.shields.io/badge/AWS-Primary_Focus-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/GCP-Secondary_Focus-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-AZ--900_Certified-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-
-### Systems, DevOps & Containers
-![Linux](https://img.shields.io/badge/Linux_Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### AI, Tools & Development
-![AI Agents](https://img.shields.io/badge/AI_Agents-Google_Vibe_Coding-8E44AD?style=flat-square&logo=google&logoColor=white)
-![IBM AI](https://img.shields.io/badge/IBM_AI-Credly_Certified-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- 🐍 **Languages**: Python, Bash Shell Scripting, SQL
+- ☁️ **Cloud Platforms**: AWS (Primary Focus), Google Cloud Platform (GCP), Microsoft Azure (AZ-900)
+- 🐧 **Systems & DevOps**: Linux Administration, Git, GitHub, Docker, Kubernetes
+- 🤖 **AI & Developer Tools**: AI Agent Frameworks, IBM AI Credentials, VS Code, Jupyter Notebooks
 
 ---
 
@@ -172,39 +145,21 @@ Implementing hands-on AI agent concepts inspired by Google's Vibe Coding methodo
 
 ## 📜 Certifications & Credentials
 
-### Amazon Web Services (AWS)
-![AWS Cloud Quest Practitioner](https://img.shields.io/badge/AWS-Cloud_Quest_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Cloud Quest GenAI](https://img.shields.io/badge/AWS-Cloud_Quest_Generative_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Microsoft Azure
-![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft-Certified_Azure_Fundamentals_(AZ--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Google & AI Credly Credentials
-![Google AI Agent Vibe Coding](https://img.shields.io/badge/Google-5--Day_AI_Agent:_Vibe_Coding_Graduate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![IBM AI Credly](https://img.shields.io/badge/IBM_AI-Credly_Certified_Badge-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-### In-Progress Credentials Target
-![GCP Foundations](https://img.shields.io/badge/Target-Google_Cloud_Foundations_Certificate-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Oracle AI Agent](https://img.shields.io/badge/Target-Oracle_AI_Agent_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
+- ☁️ **AWS Cloud Quest**: Cloud Practitioner & Generative AI Practitioner
+- 🔷 **Microsoft Certified**: Azure Fundamentals (AZ-900)
+- 🟢 **Google AI Agent**: 5-Day AI Agent Vibe Coding Graduate
+- 🔵 **IBM AI**: Credly Certified AI Badge
+- 🎯 **Target Certifications**: Google Cloud Foundations & Oracle AI Agent Associate
 
 ---
 
 ## 🧩 Competitive Coding & Problem Solving
 
 <div align="center">
-  <a href="https://leetcode.com/mayursureshnair">
-    <img src="https://img.shields.io/badge/LeetCode-mayursureshnair-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
-  </a>
-  <a href="https://geeksforgeeks.org/user/mayursureshnair">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-mayursureshnair-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
-  </a>
-  <br /><br />
-  <a href="https://hackerrank.com/mayursureshnair">
-    <img src="https://img.shields.io/badge/HackerRank-mayursureshnair-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
-  </a>
-  <a href="https://codechef.com/users/mayursureshnair">
-    <img src="https://img.shields.io/badge/CodeChef-mayursureshnair-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
-  </a>
+  <a href="https://leetcode.com/mayursureshnair"><b>LeetCode Profile</b></a> &nbsp;•&nbsp;
+  <a href="https://geeksforgeeks.org/user/mayursureshnair"><b>GeeksforGeeks Profile</b></a> &nbsp;•&nbsp;
+  <a href="https://hackerrank.com/mayursureshnair"><b>HackerRank Profile</b></a> &nbsp;•&nbsp;
+  <a href="https://codechef.com/users/mayursureshnair"><b>CodeChef Profile</b></a>
 </div>
 
 ---
