@@ -69,55 +69,6 @@ I am currently building my core engineering foundation through intensive hands-o
 
 ---
 
-## 📦 Featured Learning & Architecture Repositories
-
-<details>
-<summary><b>🔥 Project 01: Cloud-Infrastructure-Labs — Multi-Cloud Architecture Deployments</b></summary>
-
-<br />
-
-Hands-on repository documenting multi-cloud deployment patterns, IAM security configurations, and cloud-native architecture experiments across AWS, GCP, and Azure.
-
-| Stack | Status | Focus Area | Security | Repository |
-| :--- | :--- | :--- | :--- | :---: |
-| `AWS` `GCP` `Azure` `Terraform` | Active Building | Cloud Infrastructure | IAM & Zero-Trust | [Github Repo](https://github.com/mayursureshnair/cloud-infrastructure-labs) |
-
-#### Architecture Overview
-Building cloud deployment templates focusing on compute instances, object storage, serverless functions, and secure virtual private clouds (VPCs) across major cloud vendors.
-</details>
-
-<details>
-<summary><b>⚡ Project 02: Linux-Systems-Automation — Shell Scripting & Admin Toolkit</b></summary>
-
-<br />
-
-A collection of production-ready Bash scripts designed to automate system diagnostics, log monitoring, user management, and automated backup routines on Linux systems.
-
-| Stack | Status | Focus Area | Security | Repository |
-| :--- | :--- | :--- | :--- | :---: |
-| `Bash` `Linux` `Cron` `Shell` | Active Building | Systems Administration | Automated Backups | [Github Repo](https://github.com/mayursureshnair/linux-systems-automation) |
-
-#### Architecture Overview
-Engineered modular shell scripts with strict error handling, logging capabilities, and automated cron task schedules for system health reporting.
-</details>
-
-<details>
-<summary><b>🤖 Project 03: AI-Agent-Exploration — Intelligent Agents & Python Workflows</b></summary>
-
-<br />
-
-Experimental laboratory repository exploring autonomous AI agents, prompt chaining frameworks, and Generative AI application development using Python.
-
-| Stack | Status | Focus Area | Impact | Repository |
-| :--- | :--- | :--- | :--- | :---: |
-| `Python` `AI Agents` `Google Vibe` | Active Building | Artificial Intelligence | Rapid Prototyping | [Github Repo](https://github.com/mayursureshnair/ai-agent-exploration) |
-
-#### Architecture Overview
-Implementing hands-on AI agent concepts inspired by Google's Vibe Coding methodology and IBM AI standards to construct functional autonomous helper scripts.
-</details>
-
----
-
 ## 🎓 Education & Academic Journey
 
 ### **Bachelor of Computer Applications (BCA)** | *Manipal University Jaipur*
@@ -128,67 +79,24 @@ Implementing hands-on AI agent concepts inspired by Google's Vibe Coding methodo
 
 ---
 
-## 🏆 Achievements & Community Involvement
+## 🎖️ Verified Credentials & Developer Profiles
 
 <div align="center">
-
-| Recognition / Role | Organization | Key Details & Contributions |
-| :--- | :---: | :--- |
-| **Volunteer Support Contributor** | **Mozilla (SUMO)** | Active community contributor helping users resolve browser performance issues and open-web technologies support. |
-| **AWS Cloud Quest Champion** | **Amazon Web Services** | Earned Cloud Quest Practitioner & Generative AI Practitioner credentials through hands-on cloud challenge labs. |
-| **Microsoft Azure Certified** | **Microsoft** | Successfully earned official **AZ-900 (Azure Fundamentals)** global certification. |
-| **Google AI Agent Completion** | **Google** | Completed the intensive *5-Day AI Agent: Vibe Coding Course* covering autonomous agent development. |
-
-</div>
-
----
-
-## 📜 Certifications & Credentials
-
-- ☁️ **AWS Cloud Quest**: Cloud Practitioner & Generative AI Practitioner
-- 🔷 **Microsoft Certified**: Azure Fundamentals (AZ-900)
-- 🟢 **Google AI Agent**: 5-Day AI Agent Vibe Coding Graduate
-- 🔵 **IBM AI**: Credly Certified AI Badge
-- 🎯 **Target Certifications**: Google Cloud Foundations & Oracle AI Agent Associate
-
----
-
-## 🧩 Competitive Coding & Problem Solving
-
-<div align="center">
-  <a href="https://leetcode.com/mayursureshnair"><b>LeetCode Profile</b></a> &nbsp;•&nbsp;
-  <a href="https://geeksforgeeks.org/user/mayursureshnair"><b>GeeksforGeeks Profile</b></a> &nbsp;•&nbsp;
-  <a href="https://hackerrank.com/mayursureshnair"><b>HackerRank Profile</b></a> &nbsp;•&nbsp;
-  <a href="https://codechef.com/users/mayursureshnair"><b>CodeChef Profile</b></a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayursureshnair&show_icons=true&theme=dracula&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=8B5CF6&border_color=3B0764&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayursureshnair&layout=compact&theme=dracula&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&icon_color=8B5CF6&border_color=3B0764" width="48%" alt="Top Languages" />
-  
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayursureshnair&theme=dracula&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakNum=E2E8F0&side-nums=E2E8F0&side-titles=A855F7&dates=94A3B8&border=3B0764" width="97%" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayursureshnair&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayursureshnair&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <a href="https://www.credly.com/users/mayursureshnair/badges/credly">
+    <img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=plastic&logo=credly&logoColor=white" alt="Credly Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.skills.google/public_profiles/a3c06da5-61e4-41b4-b08a-dfe3de8c809e">
+    <img src="https://img.shields.io/badge/Google_Skills-Public_Profile-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Skills Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://me.developers.google.com/u/mayursureshnair">
+    <img src="https://img.shields.io/badge/Google_Developers-Member_Profile-0F9D58?style=plastic&logo=google&logoColor=white" alt="Google Developer Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credential.net/profile/mayursureshnair/wallet">
+    <img src="https://img.shields.io/badge/Accredible-Credential_Wallet-00A887?style=plastic&logo=education&logoColor=white" alt="Accredible Wallet" />
+  </a>
 </div>
 
 ---
@@ -201,19 +109,20 @@ Implementing hands-on AI agent concepts inspired by Google's Vibe Coding methodo
 
 ---
 
-## 🎯 Current Focus & Roadmap
+## 📬 Connect & Network
 
-```yaml
-current_focus:
-  learning:
-    - Advanced AWS Cloud Architecture & Infrastructure as Code (Terraform)
-    - Linux Systems Internal Administration & Bash Scripting Automation
-  building:
-    - Multi-Cloud Deployment Labs Repository
-    - Autonomous AI Agent Workflows using Python
-  exploring:
-    - Google Cloud Foundations & Oracle AI Agent Associate Certification Paths
-    - Edge Computing Technologies & AI Model Optimization
-  open_to:
-    - Open Source Collaboration & Mozilla Community Contributions
-    - Cloud & AI Hackathons & Technical Mentorship
+<div align="center">
+  🌐 <a href="https://www.linkedin.com/in/mayursureshnair/"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
+  🐙 <a href="https://github.com/mayursureshnair"><b>GitHub</b></a> &nbsp;•&nbsp; 
+  ✉️ <a href="mailto:mayursureshnair@example.com"><b>Email</b></a>
+</div>
+
+---
+
+<div align="center">
+  <br />
+  <p><i>"Artificial Intelligence does not replace human ingenuity; it extends human potential across computing boundaries."</i></p>
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
