@@ -9,17 +9,17 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mayursureshnair/">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" alt="LinkedIn" valign="middle" />
+      <img src="https://img.icons8.com/color/48/linkedin.png" width="22" height="22" alt="LinkedIn" valign="middle" />
       &nbsp;<b>LinkedIn</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/mayursureshnair">
-      <img src="https://cdn.simpleicons.org/github/C084FC" width="20" height="20" alt="GitHub" valign="middle" />
+      <img src="https://img.icons8.com/material-sharp/48/c084fc/github.png" width="22" height="22" alt="GitHub" valign="middle" />
       &nbsp;<b>GitHub</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mayursureshnair@gmail.com">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Gmail" valign="middle" />
+      <img src="https://img.icons8.com/color/48/gmail-new.png" width="22" height="22" alt="Gmail" valign="middle" />
       &nbsp;<b>Email</b>
     </a>
   </p>
@@ -84,22 +84,22 @@ I am currently building my core engineering foundation through intensive hands-o
 <div align="center">
   <p align="center">
     <a href="https://www.credly.com/users/mayursureshnair/badges/credly">
-      <img src="https://cdn.simpleicons.org/credly/FF6B00" width="22" height="22" alt="Credly" valign="middle" />
+      <img src="https://img.icons8.com/color/48/credly.png" width="22" height="22" alt="Credly" valign="middle" />
       &nbsp;<b>Credly Profile</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.skills.google/public_profiles/a3c06da5-61e4-41b4-b08a-dfe3de8c809e">
-      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="22" height="22" alt="Google Skills" valign="middle" />
+      <img src="https://img.icons8.com/color/48/google-cloud.png" width="22" height="22" alt="Google Skills" valign="middle" />
       &nbsp;<b>Google Skills Profile</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://me.developers.google.com/u/mayursureshnair">
-      <img src="https://cdn.simpleicons.org/google/0F9D58" width="22" height="22" alt="Google Developers" valign="middle" />
+      <img src="https://img.icons8.com/color/48/google-logo.png" width="22" height="22" alt="Google Developers" valign="middle" />
       &nbsp;<b>Google Developer Profile</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.credential.net/profile/mayursureshnair/wallet">
-      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/svgs/solid/award.svg" width="20" height="20" alt="Accredible" valign="middle" />
+      <img src="https://img.icons8.com/color/48/warranty.png" width="22" height="22" alt="Accredible" valign="middle" />
       &nbsp;<b>Accredible Wallet</b>
     </a>
   </p>
@@ -112,17 +112,17 @@ I am currently building my core engineering foundation through intensive hands-o
 <div align="center">
   <p align="center">
     <a href="https://www.linkedin.com/in/mayursureshnair/">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn" valign="middle" />
+      <img src="https://img.icons8.com/color/48/linkedin.png" width="22" height="22" alt="LinkedIn" valign="middle" />
       &nbsp;<b>LinkedIn</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/mayursureshnair">
-      <img src="https://cdn.simpleicons.org/github/C084FC" width="22" height="22" alt="GitHub" valign="middle" />
+      <img src="https://img.icons8.com/material-sharp/48/c084fc/github.png" width="22" height="22" alt="GitHub" valign="middle" />
       &nbsp;<b>GitHub</b>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mayursureshnair@gmail.com">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Gmail" valign="middle" />
+      <img src="https://img.icons8.com/color/48/gmail-new.png" width="22" height="22" alt="Gmail" valign="middle" />
       &nbsp;<b>Gmail</b>
     </a>
   </p>
