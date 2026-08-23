@@ -1,5 +1,6 @@
+<!-- README_optionA.md -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=220&section=header&text=MAYUR%20SURESH%20NAIR&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Cloud%20Computing%20%7C%20Artificial%20Intelligence%20%7C%20Systems%20Architecture&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=glitch&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=220&section=header&text=MAYUR%20SURESH%20NAIR&fontSize=46&fontColor=ffffff" width="100%" alt="Glitch Header" />
 
   <br />
 
@@ -128,5 +129,5 @@ I am currently building my core engineering foundation through intensive handsâ€
   <p><i>"Artificial Intelligence does not replace human ingenuity; it extends human potential across computing boundaries."</i></p>
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=120&section=footer&fontSize=0" width="100%" alt="Wave Footer" />
 </div>
