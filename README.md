@@ -1,6 +1,5 @@
-<!-- README_optionB.md -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pixel&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=220&section=header&text=MAYUR%20SURESH%20NAIR&fontSize=46&fontColor=ffffff" width="100%" alt="Pixel Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=220&section=header&text=MAYUR%20SURESH%20NAIR&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Cloud%20Computing%20%7C%20Artificial%20Intelligence%20%7C%20Systems%20Architecture&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <br />
 
@@ -89,3 +88,45 @@ I am currently building my core engineering foundation through intensive handsâ€
           <br /><b>Google Developers</b>
         </a>
       </td>
+      <td align="center" width="200">
+        <a href="https://www.credential.net/profile/mayursureshnair/wallet">
+          <img src="https://img.icons8.com/color/48/warranty.png" width="24" height="24" alt="Accredible" valign="middle" />
+          <br /><b>Accredible Wallet</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## ðŸ“¬ Connect & Network
+
+<div align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="200">
+        <a href="https://www.linkedin.com/in/mayursureshnair/">
+          <img src="https://img.icons8.com/color/48/linkedin.png" width="24" height="24" alt="LinkedIn" valign="middle" />
+          <br /><b>LinkedIn</b>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="mailto:mayursureshnair@gmail.com">
+          <img src="https://img.icons8.com/color/48/gmail-new.png" width="24" height="24" alt="Gmail" valign="middle" />
+          <br /><b>Gmail</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <br />
+  <p><i>"Artificial Intelligence does not replace human ingenuity; it extends human potential across computing boundaries."</i></p>
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
