@@ -4,7 +4,6 @@
   <br />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+Foundations+in+AWS%2C+GCP+%26+Azure;Exploring+AI+Agents%2C+Generative+AI+%26+Edge+Tech;Linux+Systems+Admin+%7C+Bash+%7C+Python+%7C+Cloud-Native" width="100%" alt="Typing SVG Animation" />
-
   <br /><br />
 </div>
 
