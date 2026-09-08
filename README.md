@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:1f0036,30:3b0764,70:581c87,100:6b21a8&height=220&section=header&text=MAYUR%20SURESH%20NAIR&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Cloud%20Computing%20%7C%20Artificial%20Intelligence%20%7C%20Systems%20Architecture&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+Foundations+in+AWS%2C+GCP+%26+Azure;Exploring+AI+Agents%2C+Generative+AI+%26+Edge+Tech;Linux+Systems+Admin+%7C+Bash+%7C+Python+%7C+Cloud-Native" width="100%" alt="Typing SVG Animation" />
   <br /><br />
