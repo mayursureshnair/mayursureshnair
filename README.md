@@ -9,7 +9,7 @@
 
 ## 💻 About Me
 
-I am a **BCA Student at Manipal University Jaipur** with a strong passion for **Cloud Computing, Artificial Intelligence, and Systems Infrastructure**.
+I am a **BCA Student at Manipal University Jaipur** with a strong passion for **Cloud Computing, Artificial Intelligence and Systems Infrastructure**.
 
 I am currently building my core engineering foundation through intensive hands‑on learning—exploring cloud architecture, edge computing technologies, security fundamentals, and AI while continually strengthening my knowledge of Linux, Python, Bash scripting, and modern distributed systems.
 
