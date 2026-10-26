@@ -32,7 +32,7 @@ I am currently building my core engineering foundation through intensive hands�
 
 - 🐍 **Languages**: Python, Bash shell scripting, SQL  
 - ☁️ **Cloud Platforms**: AWS (primary focus), Google Cloud Platform (GCP), Microsoft Azure (AZ‑900)  
-- 🐧 **Systems & DevOps**: Linux administration, Git, GitHub, Ansible, Docker, Kubernetes  
+- 🐧 **Systems & DevOps**: Linux, Git, GitHub, Ansible, Docker, Kubernetes  
 - 🤖 **AI & Developer Tools**: Google Antigravity, Google ADK, VS Code  
 
 ---
