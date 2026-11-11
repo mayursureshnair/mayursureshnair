@@ -14,10 +14,9 @@ I am a **BCA Student at Manipal University Jaipur** with a strong passion for **
 I am currently building my core engineering foundation through intensive hands‑on learning—exploring cloud architecture, edge computing technologies, security fundamentals, and AI while continually strengthening my knowledge of Linux, Python, Bash scripting and modern distributed systems.
 
 - 📍 **Location**: Kannur, Kerala, India  
-- ☁️ **Cloud Computing**: Hands‑on experience with **AWS** (primary focus), **GCP** (secondary), and **Azure** (AZ‑900 certified).  
-- 🤖 **Artificial Intelligence & Agents**: Exploring generative AI, AI agent workflows, and practical Python AI implementations.  
+- ☁️ **Cloud Computing**: Hands‑on experience with **AWS** (primary focus), **GCP** and **Azure**.  
+- 🤖 **Artificial Intelligence & Agents**: Exploring generative AI and AI agent workflows 
 - 🐧 **Linux & Systems**: Deepening knowledge in Linux administration, command‑line automation, shell scripting, and containerization.  
-- 🎯 **Product Engineering Mindset**: Focused on industry best practices, security fundamentals, and scalable technology solutions.  
 - 🤝 **Open To**: Peer collaboration, open‑source contributions and technical learning opportunities.
 
 ---
@@ -25,7 +24,7 @@ I am currently building my core engineering foundation through intensive hands�
 ## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,postgres,aws,gcp,azure,docker,kubernetes,linux,git,github,vscode&perline=6" width="100%" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,bash,postgres,linux,git,github,vscode,aws,gcp,azure,docker,githubactions,kubernetes,ansible,prometheus,grafana&perline=8" width="90%" alt="Skill Icons" />
 </div>
 
 <br />
