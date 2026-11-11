@@ -11,14 +11,14 @@
 
 I am a **BCA Student at Manipal University Jaipur** with a strong passion for **Cloud Computing, Artificial Intelligence and Systems Infrastructure**.
 
-I am currently building my core engineering foundation through intensive hands‑on learning—exploring cloud architecture, edge computing technologies, security fundamentals, and AI while continually strengthening my knowledge of Linux, Python, Bash scripting, and modern distributed systems.
+I am currently building my core engineering foundation through intensive hands‑on learning—exploring cloud architecture, edge computing technologies, security fundamentals, and AI while continually strengthening my knowledge of Linux, Python, Bash scripting and modern distributed systems.
 
 - 📍 **Location**: Kannur, Kerala, India  
 - ☁️ **Cloud Computing**: Hands‑on experience with **AWS** (primary focus), **GCP** (secondary), and **Azure** (AZ‑900 certified).  
 - 🤖 **Artificial Intelligence & Agents**: Exploring generative AI, AI agent workflows, and practical Python AI implementations.  
 - 🐧 **Linux & Systems**: Deepening knowledge in Linux administration, command‑line automation, shell scripting, and containerization.  
 - 🎯 **Product Engineering Mindset**: Focused on industry best practices, security fundamentals, and scalable technology solutions.  
-- 🤝 **Open To**: Peer collaboration, open‑source contributions, hackathons, and technical learning opportunities.
+- 🤝 **Open To**: Peer collaboration, open‑source contributions and technical learning opportunities.
 
 ---
 
@@ -30,22 +30,10 @@ I am currently building my core engineering foundation through intensive hands�
 
 <br />
 
-- 🐍 **Languages**: Python, Bash shell scripting, SQL  
-- ☁️ **Cloud Platforms**: AWS (primary focus), Google Cloud Platform (GCP), Microsoft Azure (AZ‑900)  
-- 🐧 **Systems & DevOps**: Linux, Git, GitHub, Ansible, Docker, Kubernetes  
-- 🤖 **AI & Developer Tools**: Google Antigravity, Google ADK, VS Code  
-
----
-
-## ⚡ AI & Cloud Domain Focus
-
-| Domain                              | Focus Level | Technical Details & Learning Roadmap |
-|------------------------------------|:-----------:|--------------------------------------|
-| **Cloud Architecture & Infrastructure** | `Primary`   | Hands‑on AWS multi‑service deployment, GCP fundamentals, Azure infrastructure configurations. |
-| **Linux & Systems Administration** | `Core`      | Bash automation, security management, kernel basics, CLI mastery. |
-| **Containerization & Orchestration** | `Practitioner` | Docker containerization, Kubernetes clusters, CI/CD pipelines. |
-| **AI & Generative AI Agents**      | `Active Focus` | Python‑based AI agents, Vibe Coding workflows, LLM prompt engineering, edge AI integration. |
-| **Version Control & Security**     | `Core`      | Git branching, GitHub Actions, cloud IAM, open‑source best practices. |
+- 🐍 **Languages**: Python, Bash shell scripting and SQL  
+- ☁️ **Cloud Platforms**: AWS (primary focus), Google Cloud Platform (GCP) and Microsoft Azure (AZ‑900)  
+- 🐧 **Systems & DevOps**: Linux, Git, GitHub, Ansible, Docker, Ansible and Datadog 
+- 🤖 **AI & Developer Tools**: Google Antigravity, Google ADK, VS Code and Github Copilot
 
 ---
 
